@@ -37,6 +37,7 @@ punctuator:
 key_binder:
   bindings:
     __patch:
+      - key_bindings:/paging_with_arrow_key
       - key_bindings:/move_by_word_with_tab
       - key_bindings:/candidates_selection_by_numeric
 
